@@ -11,7 +11,7 @@ The test performs the following actions:
 3.  Filters the search results by categories.
 4.  Scrolls down the page twice to load more content.
 5.  Selects a live streamer from the results.
-6.  Waits for the streamer's page to load and takes a screenshot (streamer_mage.png).
+6.  Waits for the streamer's page to load and takes a screenshot (streamer_page.png).
 
 ## Setup
 1.  **Navigate to the project directory, for example:**
